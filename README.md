@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Nguyễn Hùng!
-🚀 I'm a backend development 
+🚀 I'm a backend developer 
 
 ## 🔧 Tech Stack
 - 🧠 Languages: Java, JavaScript (ES6+)
